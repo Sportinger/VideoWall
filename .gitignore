@@ -28,9 +28,10 @@ yarn-error.log*
 /coverage 
 
 # Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/*.so
 .Python
 .pytest_cache/
+**/backend/**/__pycache__/
