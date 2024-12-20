@@ -7,9 +7,8 @@
 }
 
 .layout {
-  height: 100%;
-  width: 100%;
-  margin: 0 !important;
+  background: #f0f0f0;
+  margin: 0 auto;
 }
 
 .grid-box {
